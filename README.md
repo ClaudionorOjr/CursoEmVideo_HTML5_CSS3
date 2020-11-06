@@ -4,8 +4,8 @@ Curso de HTML5 e CSS3 do canal [Curso em Vídeo](https://www.youtube.com/playlis
 Este será meu repositório pessoal do curso.
 
 ## Módulo 01: Primeiros passsos HTML+CSS
-- [ ] Conceitos básicos
-- [ ] Preparação do ambiente
+- [x] Conceitos básicos
+- [x] Preparação do ambiente
 - [ ] Semântica da HTML5
 - [ ] Texto/Títulos
 - [ ] Ligações
